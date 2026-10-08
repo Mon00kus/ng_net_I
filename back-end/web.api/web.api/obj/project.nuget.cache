@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q0vJwt2K3zE=",
+  "success": true,
+  "projectFilePath": "D:\\Training\\Angular\\Angular-net\\back-end\\web.api\\web.api\\web.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raul\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.19\\microsoft.aspnetcore.openapi.9.0.19.nupkg.sha512",
+    "C:\\Users\\Raul\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Raul\\.nuget\\packages\\scalar.aspnetcore\\2.17.14\\scalar.aspnetcore.2.17.14.nupkg.sha512"
+  ],
+  "logs": []
+}
