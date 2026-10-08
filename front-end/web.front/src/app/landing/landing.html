@@ -1,0 +1,13 @@
+<h2>
+  Comunication with the web api 
+</h2>
+
+@for (weat of weater; track $index){
+  <div>
+    <div>Fecha: {{weat.date}}</div>
+    <div>Temperature (C):{{weat.temperatureC}}</div>
+    <div>Temperature (F):{{weat.temperatureF}}</div>
+    <div>Resum: {{weat.summary}}</div>
+  </div>
+  <hr>
+}
